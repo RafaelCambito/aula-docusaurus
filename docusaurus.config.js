@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Redes_IFPR',
-  tagline: 'Aula de Redes',
+  title: 'Redes IFPR',
+  tagline: 'Aula de redes',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://rafaelcambito.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/aula-docusauros',
+  baseUrl: '/aula-docusaurus/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rafaelcambito', // Usually your GitHub org/user name.
-  projectName: 'aula-docusauros', // Usually your repo name.
+  projectName: 'aula-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
